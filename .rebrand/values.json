@@ -1,0 +1,9 @@
+{
+  "reponame": "multi-tenant-saas-2",
+  "productname": "Multi Tenant Saas 2",
+  "productdomain": "",
+  "subdomain": "nexo-7be",
+  "orunWorkspace": "org_6ea64080a2fe4a32af9f50254241967f",
+  "githuborg": "pullely",
+  "epicSlug": "infra-baselining-multi-tenant-saas-2"
+}
